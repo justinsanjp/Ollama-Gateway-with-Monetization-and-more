@@ -1,6 +1,6 @@
 {
-    "name": "justinsanjp/justins-ai-api",
-    "description": "Justin's AI API – OpenAI-kompatible KI-Plattform mit Admin-Panel und Prepaid-Billing",
+    "name": "justinsanjp/ollamagateway",
+    "description": "Ollama Gateway with Monetization & more",
     "type": "project",
     "require": {
         "php": ">=8.3",
