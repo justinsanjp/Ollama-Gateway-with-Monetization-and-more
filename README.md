@@ -33,8 +33,8 @@ A production-ready, OpenAI-compatible API gateway powered by Ollama. Feature-ric
 ## Quick Start
 
 ```bash
-git clone https://github.com/justinsanjp/justins-ai-api.git
-cd justins-ai-api
+git clone https://github.com/justinsanjp/Ollama-Gateway-with-Monetization-and-more.git
+cd Ollama-Gateway-with-Monetization-and-more
 composer install
 php setup.php
 php -S localhost:8000 -t public
@@ -92,7 +92,7 @@ All settings are managed through the `.env` file:
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `APP_NAME` | Application name | `AI API` |
+| `APP_NAME` | Application name | `Ollama Gateway` |
 | `APP_ENV` | Environment (`production`/`development`) | `production` |
 | `APP_URL` | Public URL of the application | `http://localhost` |
 | `APP_DEBUG` | Enable debug mode | `false` |
