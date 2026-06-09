@@ -176,4 +176,5 @@ For licensing inquiries and commercial license requests, please open an issue in
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24ba5efe-44c0-4da6-a164-1624bd3aa864" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52e2ed07-199a-42cd-a021-d073beb6bb05" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2013bc0c-7ac0-489b-a67f-78bd43abe3bd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b8af98d-f1ac-4a9f-b307-43f98ceae1b7" />
 
